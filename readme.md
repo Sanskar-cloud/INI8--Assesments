@@ -27,7 +27,7 @@ This project implements a simple yet production-style Document Management Portal
 
 ---
 
-## 🏗 Folder Structure
+## Folder Structure
 
 ```
 /backend
